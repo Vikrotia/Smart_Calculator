@@ -17,7 +17,7 @@ From the main window, you can go to the windows:
 
 ![screen3](screen/3.png "3")
 
-    1.1. Graph - window application that plots the function entered in the calculator window. For a graph, you can select the area of definition and the area of value.
+1.1. Graph - window application that plots the function entered in the calculator window. For a graph, you can select the area of definition and the area of value.
 
 ![screen4](screen/4.png "4")
 
